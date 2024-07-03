@@ -1,3 +1,42 @@
+/* *{
+    margin: 0px;
+} */
 div{
     background-color: tomato;
+}
+.blog{
+    padding: 10px;
+    margin: 10px;
+    border: 5px solid green;
+    border-radius: 10px;
+    
+}
+h3{
+    font-style: italic;
+    background-color: green;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 5px;
+    color: antiquewhite;
+    
+}
+p{
+    color: bisque;
+    text-align: justify;
+    font-size: large;
+    margin: 0px;
+}
+.headline{
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+}
+header{
+    margin: 0px;
+}
+body{
+    margin: 0px;
+}
+#one{
+    margin-top: 30px;
 }
